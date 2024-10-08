@@ -2,10 +2,10 @@
 R code used for my Individual Research Project (IRP), Project name: Using AI driven approaches to identify early-stage diagnostic biomarkers for Head and Neck Cancers in ethnically diverse populations.
 
 This project aims to leverage our group's interest in machine learning to unlock insights from early-stage
-SCCHC multi-omic data across diverse ethnicities (4). This will be achieved by:
+SCCHC multi-omic data across diverse ethnicities. This will be achieved by:
 
 1.Applying established machine learning models: You will adapt and apply our group's existing machine
-learning models (5,6) to analyse early-stage SCCHC multi-omic datasets obtained from various ethnic
+learning models to analyse early-stage SCCHC multi-omic datasets obtained from various ethnic
 populations. This will involve utilizing a comprehensive suite of R and Python-based software for integrated
 data analysis.
 
